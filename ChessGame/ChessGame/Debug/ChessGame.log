@@ -1,0 +1,6 @@
+﻿  Game.cpp
+D:\Informatika\C++\s\SFML projektek\Plusz dolgok\ChessGame\ChessGame\Game.cpp(181,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Informatika\C++\s\SFML projektek\Plusz dolgok\ChessGame\ChessGame\Game.cpp(181,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Informatika\C++\s\SFML projektek\Plusz dolgok\ChessGame\ChessGame\Game.cpp(184,99): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Informatika\C++\s\SFML projektek\Plusz dolgok\ChessGame\ChessGame\Game.cpp(184,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  ChessGame.vcxproj -> D:\Informatika\C++\s\SFML projektek\Plusz dolgok\ChessGame\Debug\ChessGame.exe
